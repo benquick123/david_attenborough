@@ -1,0 +1,308 @@
+clip_1 | Just 50 years ago,
+clip_2 | we finally ventured to the moon.
+clip_3 | For the very first time, we looked back at our own planet.
+clip_4 | Since then, the human population has more than doubled.
+clip_5 | This series will celebrate the natural wonders that remain,
+clip_6 | and reveal what we must preserve
+clip_7 | to ensure people and nature thrive.
+clip_8 | The polar regions of our planet may seem beyond the reach of most of us,
+clip_9 | but they are not beyond our influence.
+clip_10 | We, unintentionally, are changing these frozen worlds,
+clip_11 | and these changes will not just affect the poles
+clip_12 | but the whole planet.
+clip_13 | Antarctica.
+clip_14 | The southern end of our planet, and the coldest place on Earth.
+clip_15 | It has been frozen for 30 million years.
+clip_16 | In its center, the covering of ice is over four kilometers thick.
+clip_17 | Entire mountain ranges are buried beneath it.
+clip_18 | Here, it is so cold that each winter
+clip_19 | 19 million square kilometers of ocean freezes,
+clip_20 | more than doubling the size of the ice cap.
+clip_21 | But when, in spring, the sea ice melts,
+clip_22 | life returns once again to the continent's shores.
+clip_23 | The peninsula that stretches north towards South America
+clip_24 | is the first part of it to be released from winter's grip.
+clip_25 | As the sea ice breaks up,
+clip_26 | life returns.
+clip_27 | There is a greater variety of living creatures here
+clip_28 | than anywhere else in Antarctica.
+clip_29 | Gentoo penguins spend most of their lives at sea,
+clip_30 | but now, in spring, they have to come ashore to breed.
+clip_31 | They're the fastest of all penguins in water,
+clip_32 | but on land, life takes on a slower pace.
+clip_33 | It's an uphill struggle to reach their nesting grounds...
+clip_34 | ...but penguins never give up.
+clip_35 | The paths they follow, carved by thousands of tiny footsteps,
+clip_36 | lead to Antarctica's rarest commodity.
+clip_37 | Bare rock.
+clip_38 | Less than one percent of Antarctica is ice-free,
+clip_39 | and these rocky patches
+clip_40 | are the only places where gentoos can lay their eggs.
+clip_41 | It's been a 30-minute struggle,
+clip_42 | but he's almost at the top, where his mate is waiting for him.
+clip_43 | He presents her with a stone,
+clip_44 | a gift to improve the nest and so win her favor.
+clip_45 | He's back just in time.
+clip_46 | There's another mouth to feed.
+clip_47 | Gentoo penguins used to be rare in this part of Antarctica,
+clip_48 | but now, as temperatures rise, their numbers here are increasing.
+clip_49 | Sea ice may appear to be flat and lifeless,
+clip_50 | but beneath it there is another world.
+clip_51 | As the ice melts, the light filters through,
+clip_52 | and algae, that have been trapped within the ice all winter, flourish.
+clip_53 | This upside-down world
+clip_54 | is the polar equivalent of the great grasslands.
+clip_55 | The ice is the soil upon which plant life grows,
+clip_56 | and the herds of grazers soon arrive.
+clip_57 | Antarctic krill.
+clip_58 | Trillions of them swarm in the waters around Antarctica.
+clip_59 | Protected by the ice above, they graze on algae whilst the sun shines.
+clip_60 | But the good times don't last long.
+clip_61 | Once all the ice has melted, the krill lose their protection,
+clip_62 | and predators appear.
+clip_63 | Penguins may have lost their ability to fly,
+clip_64 | but they still form flocks, as so many birds do.
+clip_65 | The longer they dive,
+clip_66 | the longer it takes them to catch their breath.
+clip_67 | Ruffling their feathers traps air, which makes their bodies more streamlined.
+clip_68 | One last breath...
+clip_69 | and the whole group dives down together.
+clip_70 | The gentoos follow the krill down to depths of over 200 meters.
+clip_71 | What a flock can catch in one dive,
+clip_72 | a giant traps in a single mouthful.
+clip_73 | Humpback whales from the tropics
+clip_74 | have traveled over 8,000 kilometers to get here.
+clip_75 | This one chooses to feed alone.
+clip_76 | This technique, part lunge, part pounce,
+clip_77 | only works when the krill are close to the surface.
+clip_78 | As more humpbacks arrive, they begin to work in teams.
+clip_79 | By lunging together,
+clip_80 | the overspill from one huge mouth is not lost but collected by another.
+clip_81 | Some humpbacks regularly work in an even more coordinated way.
+clip_82 | They do so when krill has descended to some depth.
+clip_83 | Once in position, they blast air from their blowholes.
+clip_84 | Working together,
+clip_85 | they create a curtain of bubbles around their prey.
+clip_86 | As the spiraling net tightens, the krill are driven closer together,
+clip_87 | and then the whales lunge upwards and collect them.
+clip_88 | Almost all humpback whales in the southern hemisphere
+clip_89 | come to the Antarctic to feed on krill.
+clip_90 | Since the ban on commercial whaling, their numbers have recovered dramatically,
+clip_91 | but their food supply is now under threat.
+clip_92 | In the last 50 years,
+clip_93 | with warming temperatures and disappearing sea ice,
+clip_94 | krill stocks in this part of the Southern Ocean
+clip_95 | have more than halved.
+clip_96 | Other sea hunters come here seeking bigger prey than krill.
+clip_97 | Antarctica's top predators.
+clip_98 | Orca, killer whales.
+clip_99 | Over half of the world's orca patrol these polar seas.
+clip_100 | This particular pod specializes in hunting penguins.
+clip_101 | They shift into stealth mode.
+clip_102 | Hunting without making a sound, so that their prey won't hear them coming.
+clip_103 | A penguin can outmaneuver a single killer whale,
+clip_104 | but it can seldom escape a pod.
+clip_105 | This hunt may seem cruel,
+clip_106 | but important life skills are being passed down the generations.
+clip_107 | From killer whales to krill,
+clip_108 | all life here ultimately depends upon Antarctica's sea ice.
+clip_109 | The seas that surround Antarctica are the roughest on our planet.
+clip_110 | These churning waters draw up nutrients from the deep
+clip_111 | and create vast, rich fishing grounds for nomads like the wandering albatross.
+clip_112 | Beneath the waves, currents are flowing away from Antarctica,
+clip_113 | transporting nutrients across the planet, fertilizing the oceans
+clip_114 | and helping to regulate global temperatures.
+clip_115 | The island of South Georgia.
+clip_116 | It's far enough north
+clip_117 | to be beyond the reach of the sea ice even in midwinter,
+clip_118 | and many animals live here the year round.
+clip_119 | This wandering albatross chick has been sitting on its nest all winter,
+clip_120 | and is entirely dependent on its parents returning with food.
+clip_121 | It may have to wait a few days between meals, or even a couple of weeks,
+clip_122 | but at least it's not the only one who's waiting.
+clip_123 | Albatross chicks need to spend a whole year growing
+clip_124 | before they're ready to take their first flight.
+clip_125 | And then they spend several years at sea before they return to land.
+clip_126 | Coming in to land on three-meter wings takes some practice.
+clip_127 | Albatross don't have reverse thrusters.
+clip_128 | The chick is this female's first.
+clip_129 | She's been raising it for six months, and has another six to go.
+clip_130 | Her chick is smaller than it should be,
+clip_131 | a sign that her mate has not been returning with food.
+clip_132 | He may well have been one of the many that die,
+clip_133 | entangled on longline fishing lines.
+clip_134 | South Georgia is an ideal place for wanderers to raise their young,
+clip_135 | but now fewer adults are returning here to nest,
+clip_136 | and in recent years,
+clip_137 | the breeding population has declined by 40 percent.
+clip_138 | For now, waiting on its nest, the chick is safe.
+clip_139 | There are no land predators here.
+clip_140 | But the same cannot be said for South Georgia's seas.
+clip_141 | Giant kelp flourishes in these ice-free waters.
+clip_142 | The perfect place for an ambush.
+clip_143 | Leopard seals overwinter here to escape Antarctica's frozen ocean.
+clip_144 | They should have returned south by now,
+clip_145 | but this year they've stayed longer.
+clip_146 | And they've delayed their departure for good reason.
+clip_147 | There are king penguins here.
+clip_148 | Each is a substantial meal,
+clip_149 | if you can catch it.
+clip_150 | Returning to feed their chicks,
+clip_151 | the kings have no choice but to run the gauntlet.
+clip_152 | Kings rarely porpoise like this.
+clip_153 | It uses more energy, but it's faster than traveling underwater.
+clip_154 | It's hard to select a moving target in a panicking crowd,
+clip_155 | but if there are stragglers, the odds change.
+clip_156 | Razor-sharp teeth versus a stabbing beak.
+clip_157 | It's stalemate.
+clip_158 | Both are exhausted after the chase.
+clip_159 | The hunter decides that the meal is not worth the fight.
+clip_160 | For the penguin, it was too close for comfort,
+clip_161 | but that was just the first hurdle in getting back to feed its chick.
+clip_162 | It isn't going to be a walk in the park.
+clip_163 | Luckily, penguin is not on their menu.
+clip_164 | Still, it's best to let sleeping giants lie.
+clip_165 | Elephant seal females don't take kindly
+clip_166 | to being disturbed from their slumber,
+clip_167 | but it's the four-tonne males you need to look out for.
+clip_168 | They are fighting for access to the females.
+clip_169 | Getting bulldozed under angry blubber is to be avoided at all costs.
+clip_170 | An escape route.
+clip_171 | Time to run for it.
+clip_172 | At last, he's reached the nursery.
+clip_173 | Now comes his final challenge.
+clip_174 | Finding his chick in the crowd of half a million.
+clip_175 | He calls...
+clip_176 | ...and listens for a recognizable reply.
+clip_177 | His chick could be another mile or two away,
+clip_178 | at the back of the colony.
+clip_179 | But that's the trouble with chicks.
+clip_180 | They're never where you left them.
+clip_181 | Astonishingly, in all this racket,
+clip_182 | a parent and its chick can recognize each other's calls.
+clip_183 | The things parents go through to deliver a meal.
+clip_184 | If only they knew.
+clip_185 | For such a small island,
+clip_186 | South Georgia supports an extraordinary quantity of life.
+clip_187 | All these creatures ultimately depend on the krill
+clip_188 | that develops under the sea ice around the Antarctic peninsula.
+clip_189 | With sea ice disappearing,
+clip_190 | so South Georgia's future is far from certain.
+clip_191 | At the other end of the planet, in the north,
+clip_192 | the effects of climate change are being felt even more intensely.
+clip_193 | The Arctic is not a continent surrounded by sea
+clip_194 | but a frozen ocean ringed by land.
+clip_195 | Here, in spring, the sea ice is still at its maximum extent.
+clip_196 | It's a vast, firm hunting ground for the planet's largest land carnivore.
+clip_197 | A male polar bear in search of his next meal
+clip_198 | on the frozen fjords of Svalbard in the high Arctic.
+clip_199 | He's looking for seals, which make up the bulk of his diet.
+clip_200 | He must eat two-thirds of the food he needs for the whole year
+clip_201 | before the ice melts and his hunting platform disappears.
+clip_202 | The ringed seal mother had no choice but to leave her pup alone on the surface.
+clip_203 | In the past, she would have built a den inside a ridge on the ice,
+clip_204 | but now the sea freezes so late that the ice is flat,
+clip_205 | and she had to leave her pup out in the open.
+clip_206 | These changes in the ice may benefit the bears for now,
+clip_207 | but in the long term,
+clip_208 | a crash in their most important prey will follow.
+clip_209 | This new, flatter ice makes life difficult for the bears, too.
+clip_210 | There's nowhere for them to hide in order to creep up on a seal.
+clip_211 | And for a mother with a young cub in tow, being stealthy isn't easy.
+clip_212 | The cub doesn't yet appreciate the need for care
+clip_213 | when sneaking up on a seal.
+clip_214 | With fewer seals hiding in dens,
+clip_215 | learning this pounding technique, once so useful,
+clip_216 | is now almost pointless.
+clip_217 | Still, at least he's discovered what a seal hole looks like..
+clip_218 | His mother knows that overcast conditions are good for hunting,
+clip_219 | and he knows when she's serious.
+clip_220 | Adult seals make a much better meal.
+clip_221 | Her cub carefully treads in her footsteps,
+clip_222 | and takes care not to break her outline.
+clip_223 | Neither must put a foot wrong.
+clip_224 | They must move as one.
+clip_225 | Most seal hunts end in failure.
+clip_226 | The bears must keep searching.
+clip_227 | Her cub wanders off,
+clip_228 | and gets another chance.
+clip_229 | A seal pup alone on the ice.
+clip_230 | Now it's not stealth that is needed, but confidence.
+clip_231 | There's nothing the mother can do,
+clip_232 | except hope that the pup makes it back to her hole in time.
+clip_233 | The inexperienced young hunter hesitates.
+clip_234 | Its mother knows better.
+clip_235 | Safe under the ice.
+clip_236 | Polar bears are adaptable predators, but they rely on sea ice.
+clip_237 | If that disappears, so will the bears.
+clip_238 | Summer at the ice edge in the Canadian Arctic,
+clip_239 | and the annual retreat of sea ice is well underway.
+clip_240 | As it melts, nomads arrive.
+clip_241 | Narwhal, the origin of the unicorn legend.
+clip_242 | Their three-meter tusk is, in fact, no more than an overgrown canine tooth,
+clip_243 | but its exact function, like so much about narwhals,
+clip_244 | is still, in part, a mystery.
+clip_245 | Each summer, narwhals travel to the same part of the Arctic,
+clip_246 | and patiently wait at the ice edge for a crack to open up.
+clip_247 | A lead in the ice, wide enough for them to swim along.
+clip_248 | Eventually, a crack appears.
+clip_249 | Their passage to sheltered, shallow bays.
+clip_250 | Narwhals are extremely timid and rarely filmed underwater.
+clip_251 | These ice whales eagerly travel down the leads as soon as they open
+clip_252 | because they're safer from predators protected by the ice.
+clip_253 | The leads may also give them access to new feeding grounds.
+clip_254 | Sea ice is not just crucial
+clip_255 | to the lives of those creatures that live around the poles.
+clip_256 | It plays a vital role in determining the climate of the whole planet.
+clip_257 | A white surface keeps the earth cool
+clip_258 | by reflecting most of the sun's energy back into space.
+clip_259 | A dark surface does the opposite,
+clip_260 | absorbing over 90 percent of the sun's energy
+clip_261 | and so warming the earth.
+clip_262 | As the sea ice shrinks,
+clip_263 | we're starting to lose one of our planet's protective white shields.
+clip_264 | For thousands of years,
+clip_265 | there's been a balance in the advance and retreat of the sea ice,
+clip_266 | but that is no longer the case.
+clip_267 | Today, during the summer months,
+clip_268 | there is 40 percent less sea ice cover than there was in 1980.
+clip_269 | The Arctic is warming twice as fast as anywhere else on our planet.
+clip_270 | By 2040, the ocean here will be largely free of ice
+clip_271 | during the summer months.
+clip_272 | This loss of ice will inevitably have devastating consequences
+clip_273 | for all those that still depend on it.
+clip_274 | The far northeastern coast of Russia.
+clip_275 | This is the largest gathering of walrus on the planet.
+clip_276 | Over a hundred thousand have hauled out on one single beach.
+clip_277 | They do so out of desperation, not out of choice.
+clip_278 | Their natural home is out on the sea ice.
+clip_279 | But the ice has retreated away to the north,
+clip_280 | and this is the closest place to their feeding grounds,
+clip_281 | where they can find rest.
+clip_282 | This calf must stay close to its mother.
+clip_283 | But every square inch is occupied.
+clip_284 | Climbing over the tightly packed bodies
+clip_285 | is the only way across the crowd.
+clip_286 | Those beneath can get crushed to death.
+clip_287 | A stampede can occur out of nowhere.
+clip_288 | Under these conditions, walruses are a danger to themselves.
+clip_289 | Some manage to find space away from the crowds.
+clip_290 | They struggle up the 80-meter cliffs,
+clip_291 | an extraordinary challenge for a one-tonne animal used to sea ice.
+clip_292 | At least up here there's space to rest.
+clip_293 | A walrus's eyesight out of water is poor,
+clip_294 | but they can sense the others down below.
+clip_295 | As they get hungry, they need to return to the sea.
+clip_296 | In their desperation to do so,
+clip_297 | hundreds fall from heights they should never have scaled.
+clip_298 | These mass gatherings of walrus are now happening almost every year.
+clip_299 | So the lives of walruses, like those of polar bears and seals,
+clip_300 | are changing.
+clip_301 | All are living at the frontier of climate change,
+clip_302 | and all are suffering as a consequence.
+clip_303 | For now, the Arctic winter returns and the sea ice reforms.
+clip_304 | Order is restored.
+clip_305 | Relief for the many creatures that depend on the ice.
+clip_306 | But for how much longer
+clip_307 | will their frozen worlds be a part of life on our planet?
+clip_308 | Please visit ourplanet.com

@@ -1,0 +1,294 @@
+clip_1 | Just 50 years ago,
+clip_2 | we finally ventured to the moon.
+clip_3 | For the very first time, we looked back at our own planet.
+clip_4 | Since then, the human population has more than doubled.
+clip_5 | This series will celebrate the natural wonders that remain
+clip_6 | and reveal what we must preserve
+clip_7 | to ensure people and nature thrive.
+clip_8 | Immense shoals of fish throng our shallow seas.
+clip_9 | These are anchovies.
+clip_10 | Small fish, in turn, sustain bigger ones.
+clip_11 | Hunters, such as giant trevally...
+clip_12 | and mobula rays.
+clip_13 | When hunters such as these work together, they become extremely efficient.
+clip_14 | The rich coastal seas are the fishing grounds of our planet
+clip_15 | and can provide an abundance of food for wildlife and humanity.
+clip_16 | The seas fringing land make up less than a tenth of the world's oceans,
+clip_17 | yet, astonishingly, 90 percent of all marine creatures
+clip_18 | live in these coastal waters.
+clip_19 | This superabundance is due to the fact that the seafloor here
+clip_20 | is within reach of sunlight.
+clip_21 | Everglades National Park in southern Florida.
+clip_22 | Fields of seagrass carpet the shallow tropical waters.
+clip_23 | Like savannas on land,
+clip_24 | these lush marine meadows support a great variety of animal life.
+clip_25 | Stingrays search for prey hiding in the seagrass.
+clip_26 | The Everglades are also the hunting grounds
+clip_27 | of the coasts' most ingenious fishermen.
+clip_28 | Bottlenose dolphins.
+clip_29 | They search for food using echolocation, a type of sonar.
+clip_30 | Ahead of them, a shoal of mullet.
+clip_31 | These particular dolphins
+clip_32 | have developed their own special way of catching their prey.
+clip_33 | They carefully herd the fish into just the right place.
+clip_34 | Then one dolphin stirs up a ring of mud that encircles the shoal.
+clip_35 | The fish panic and take to the air.
+clip_36 | Most escape.
+clip_37 | Catching flying fish isn't easy.
+clip_38 | But the dolphins move on and take another helping.
+clip_39 | People aren't allowed to fish commercially within the national park,
+clip_40 | so there's plenty for the dolphins.
+clip_41 | Only from the air can we really appreciate the industry of these master fishermen.
+clip_42 | The shallow seas are vitally important in the fight against climate change.
+clip_43 | Seagrass absorb 35 times as much carbon dioxide
+clip_44 | as the same area of rainforest,
+clip_45 | and that reduces the damage caused by the recent warming of our seas.
+clip_46 | Mangroves often border the seagrass meadows.
+clip_47 | These remarkable trees are the only ones that can cope
+clip_48 | with the varying saltiness of coastal waters.
+clip_49 | They not only protect our coasts from the destructive forces of hurricanes
+clip_50 | but also, like seagrass, capture carbon dioxide.
+clip_51 | Their tangled roots create safe nurseries for young fish,
+clip_52 | which will eventually leave the mangroves
+clip_53 | and make their homes in the tropical seas' most magical wonderlands,
+clip_54 | coral reefs.
+clip_55 | These reefs cover less than one percent of the seafloor,
+clip_56 | yet they are home to a quarter of all marine species.
+clip_57 | None of these creatures would be here were it not for the coral.
+clip_58 | Corals create the structures that provide food and shelter,
+clip_59 | on which the entire community depends.
+clip_60 | Every resident has a role to play in maintaining the health of the reef.
+clip_61 | Unfortunately, few reefs are as pristine as they once were,
+clip_62 | and most are now missing
+clip_63 | one extremely important member of the community.
+clip_64 | Sharks.
+clip_65 | Relentless overfishing has reduced shark populations around the world
+clip_66 | by over 90 percent.
+clip_67 | Today they only thrive in anything like their former numbers
+clip_68 | on the very remotest of reefs.
+clip_69 | French Polynesia, in the middle of the Pacific Ocean.
+clip_70 | Here, at least, sharks are fully protected.
+clip_71 | By day, gray reef sharks hang in the current.
+clip_72 | They let little wrasse pick their teeth clean
+clip_73 | in readiness for the night's hunt ahead.
+clip_74 | These sharks prefer to hunt in darkness,
+clip_75 | when their acute senses give them an advantage over their prey.
+clip_76 | Nightfall.
+clip_77 | Time for small fish to take refuge within the nooks and crannies of the reef,
+clip_78 | beyond the reach of the gray reef sharks.
+clip_79 | The sharks can detect the slightest movement.
+clip_80 | Breaking cover is dangerous.
+clip_81 | Stay motionless and the sharks may not detect you.
+clip_82 | A little fish may outmaneuver a single shark,
+clip_83 | but with so many hunters there is little chance of escape.
+clip_84 | Sheltering within the coral branches is usually the safest option,
+clip_85 | but the arrival of a second hunter changes everything.
+clip_86 | Whitetip reef sharks.
+clip_87 | Slender and more agile,
+clip_88 | the whitetips can get into hiding places other hunters can't reach.
+clip_89 | Those that are not caught by the whitetips
+clip_90 | are flushed out to the waiting gray reef sharks.
+clip_91 | With both kinds of sharks hunting in partnership,
+clip_92 | there is little respite, even within the reef.
+clip_93 | More and more sharks arrive, attracted by the commotion.
+clip_94 | Such numbers of sharks were once common on reefs around the world.
+clip_95 | And while so many predators may seem damaging,
+clip_96 | sharks, in fact, assist in maintaining the health of the reef.
+clip_97 | They help to keep a balance in the fish community
+clip_98 | by hunting the predators that feed on small grazing fish.
+clip_99 | The grazers, in their turn,
+clip_100 | keep the corals free of seaweeds and parasites
+clip_101 | that would otherwise overgrow the reef.
+clip_102 | A balanced community, with sharks as top predators,
+clip_103 | gives a coral reef much greater resilience in the face of damage and disaster.
+clip_104 | But today, even healthy coral reefs are facing a greater threat.
+clip_105 | With climate change, our seas are warming.
+clip_106 | Microscopic plants that live within the tissues of the corals
+clip_107 | give them both their color and most of their nourishment.
+clip_108 | But if seas temperatures rise by just a degree or two,
+clip_109 | the corals expel their plant partners.
+clip_110 | So they lose their main source of food...
+clip_111 | and turn white.
+clip_112 | Here, on Australia's Great Barrier Reef, unusually warm seas
+clip_113 | have caused many of the reefs to bleach in this way.
+clip_114 | It may look hauntingly beautiful,
+clip_115 | but if temperatures remain high for a few weeks,
+clip_116 | the corals will starve and eventually die.
+clip_117 | The carbon dioxide that causes global warming
+clip_118 | is also making the seas more acidic.
+clip_119 | No reefs can survive both changes.
+clip_120 | And without living corals,
+clip_121 | many of the reef's residents will also perish.
+clip_122 | During 2016 and 2017,
+clip_123 | over a thousand kilometers of the Great Barrier Reef bleached.
+clip_124 | Six months later,
+clip_125 | and many of the corals are dead.
+clip_126 | The community destroyed.
+clip_127 | Worldwide, half of all shallow coral reefs have already died.
+clip_128 | The rest could be gone over the next few decades.
+clip_129 | Away from the tropics, in higher latitudes,
+clip_130 | the seas are much cooler.
+clip_131 | Storm-lashed waters bring essential nutrients to the surface.
+clip_132 | The enriched water, combined with long summer days,
+clip_133 | make these the most productive seas on the planet.
+clip_134 | Fur seals thrive and even have time to ride the waves.
+clip_135 | Spring off the coast of California
+clip_136 | and fronds of golden kelp floating on the surface
+clip_137 | hint at the riches hidden beneath.
+clip_138 | A magnificent submarine forest.
+clip_139 | These stands of giant kelp are as important to the oceans
+clip_140 | as trees are to the land.
+clip_141 | Like a rainforest,
+clip_142 | the dense canopy provides food and shelter for an abundant community.
+clip_143 | In the cool, rich seas, giant kelp can grow 50 meters high.
+clip_144 | Air-filled floats lift the fronds towards the sunlit surface.
+clip_145 | Nestling in this canopy,
+clip_146 | a sea otter.
+clip_147 | His thick fur keeps him warm in the chilly water.
+clip_148 | Blowing air into it gives him extra insulation.
+clip_149 | Sea otters have the densest fur of any animal,
+clip_150 | and such a luxuriant coat requires a great deal of attention.
+clip_151 | They need to eat a lot to keep warm
+clip_152 | and consume up to a quarter of their body weight every day.
+clip_153 | Sea urchins are a favorite food.
+clip_154 | There's one.
+clip_155 | And a second.
+clip_156 | And then the otter is out of breath and must return to the surface.
+clip_157 | An urchin looks like a rather prickly meal,
+clip_158 | but if you can break the shell, there's a feast inside.
+clip_159 | Sea otters are crucial to the health of the kelp forest
+clip_160 | because they keep down the number of sea urchins.
+clip_161 | The urchins graze on kelp,
+clip_162 | munching through their tough stems.
+clip_163 | Left unchecked, they spread across the seafloor like a plague.
+clip_164 | Fortunately, the otters have a helper in the fight against these spiny grazers.
+clip_165 | Sheephead wrasse.
+clip_166 | They have powerful teeth
+clip_167 | and can make short work of the smaller purple urchins.
+clip_168 | The larger black urchins are more of a challenge,
+clip_169 | especially for smaller wrasse.
+clip_170 | Only the very largest sheephead can tackle them.
+clip_171 | But it still has to get past those long spines.
+clip_172 | The urchin has to be flipped over to expose its vulnerable underside.
+clip_173 | Not easy when you have no hands.
+clip_174 | Success at last.
+clip_175 | And everybody benefits.
+clip_176 | These fish and otters, living within marine protected areas,
+clip_177 | keep the kelp grazers under control.
+clip_178 | But just outside these sanctuaries, the urchins graze unchecked...
+clip_179 | and fell the kelp forest.
+clip_180 | All those that depend on the kelp have disappeared.
+clip_181 | In California, kelp forests grow abundantly in protected areas
+clip_182 | where the whole marine community can live without pressure from people.
+clip_183 | Here, at least, sea otters can chill out Californian style.
+clip_184 | Three thousand kilometers further north, in Alaska,
+clip_185 | spring arrives much later in the year.
+clip_186 | After a cold, hard winter,
+clip_187 | the first rays of the sun trigger a great annual event.
+clip_188 | Immense shoals of herring rise up from the depths
+clip_189 | and move into shallower waters.
+clip_190 | They're gathering to breed.
+clip_191 | But predators are waiting for them.
+clip_192 | Steller's sea lions.
+clip_193 | So intent on their mission, the herring make easy prey.
+clip_194 | Sea lions drive the fish to the surface, within range of aerial hunters.
+clip_195 | Bald eagles, normally solitary birds, have assembled in numbers for the feast.
+clip_196 | In places, the herrings reach shore,
+clip_197 | and there the eagles don't even need to take to the air.
+clip_198 | Humpback whales.
+clip_199 | They have come all the way from the tropics,
+clip_200 | hoping to get their first meal in months.
+clip_201 | These whales have a remarkable way of collecting this seasonal bounty.
+clip_202 | They work as a team.
+clip_203 | The lead whale dives first...
+clip_204 | and blows a curtain of bubbles to concentrate the fish.
+clip_205 | A call synchronizes the attack.
+clip_206 | By cooperating in this way, each whale can eat a ton of fish a day.
+clip_207 | Yet the herring are so abundant
+clip_208 | that, in spite of the whales, most managed to reach the shallows.
+clip_209 | And here they spawn.
+clip_210 | The females lay their eggs on the seagrass.
+clip_211 | The males follow, fertilizing the eggs with clouds of sperm.
+clip_212 | Once, herring thrived here in an abundance we can barely imagine today.
+clip_213 | They used to turn shorelines white with spawn,
+clip_214 | right across the North Pacific from Japan to California.
+clip_215 | With industrialized fishing techniques
+clip_216 | it's all too easy to overexploit these breeding stocks.
+clip_217 | This is one of the few places where a fishery still survives.
+clip_218 | Pacific herring populations are greatly reduced.
+clip_219 | A mere fraction of what they once were.
+clip_220 | This sorry tale of unsustainable fishing
+clip_221 | has been repeated time and again around the world.
+clip_222 | Many of the world's fish stocks are now in serious decline.
+clip_223 | A third of them have collapsed altogether.
+clip_224 | In coastal seas,
+clip_225 | jellyfish are taking over waters that were once dominated by fish.
+clip_226 | Compass jellyfish have an ethereal beauty,
+clip_227 | but they provide very little sustenance for other wildlife or us.
+clip_228 | These immense swarms are becoming increasingly common.
+clip_229 | A worrying sign of a serious imbalance in our shallow seas.
+clip_230 | Unless we start to fish sustainably, our seas, once so bountiful,
+clip_231 | will be filled with little more than vast swarms... of jellyfish.
+clip_232 | But the future does not have to be like this.
+clip_233 | On the Pacific coast of South America, we can see how the oceans can recover.
+clip_234 | The Atacama, the world's driest desert.
+clip_235 | Inland it's barely able to sustain life of any kind,
+clip_236 | and yet the coast could not be more different.
+clip_237 | For centuries, seabirds have gathered in millions on these desert shores.
+clip_238 | But 50 years ago the great colonies disappeared
+clip_239 | because we overfished the local waters.
+clip_240 | Controls were introduced, and now the fish stocks are recovering.
+clip_241 | So today, three million guanay cormorants assemble each year to raise their young.
+clip_242 | Each morning the birds head out to sea.
+clip_243 | The colonies are so vast they take over an hour to empty.
+clip_244 | Joining the procession, Inca terns.
+clip_245 | Peruvian boobies.
+clip_246 | A great caravan of hunters, all searching for the same thing.
+clip_247 | Anchovies.
+clip_248 | These little fish are so abundant
+clip_249 | that they support the greatest fishery on our planet.
+clip_250 | Astonishingly, they can account for a tenth of all the fish
+clip_251 | we harvest from our oceans every year.
+clip_252 | Sea lions are first to find the shoals.
+clip_253 | As fish are driven to the surface, they come within range of pelicans.
+clip_254 | Cormorants dive to grab their share.
+clip_255 | Boobies strike from heights of 20 meters.
+clip_256 | They hit the water at a hundred kilometers an hour.
+clip_257 | Today, the lives of five million cormorants and boobies
+clip_258 | depend on the great shoals.
+clip_259 | Yet, if we allow the anchovies to fully recover,
+clip_260 | they could sustain the 25 million seabirds they once did.
+clip_261 | It is a vivid reminder
+clip_262 | of the astonishing riches our coastal seas can support.
+clip_263 | And, when given the chance, they can recover surprisingly quickly.
+clip_264 | The islands of Raja Ampat in Southeast Asia.
+clip_265 | These seas were largely stripped of sharks and other large fish
+clip_266 | by years of unregulated fishing.
+clip_267 | This lagoon was once occupied by a shark fishing camp.
+clip_268 | Now it's a nursery for baby sharks.
+clip_269 | The seas around Misool were fully protected in 2007,
+clip_270 | and the recovery has been miraculous.
+clip_271 | Today there are 25 times more sharks than a decade ago.
+clip_272 | Turtles that used to be hunted now peacefully graze on the seagrass.
+clip_273 | Sharks are returning to local reefs,
+clip_274 | helping to restore the balanced community,
+clip_275 | giving them a greater resilience against the effects of coral bleaching.
+clip_276 | Ocean-going manta rays.
+clip_277 | Seven meters from wing tip to wing tip.
+clip_278 | These endangered giants
+clip_279 | spend most of their lives roaming the high seas.
+clip_280 | But now they are returning to this sanctuary
+clip_281 | to seek the attention of cleaner wrasse.
+clip_282 | Misool is one of the few places on Earth where biodiversity is actually increasing.
+clip_283 | Since protection, there are three times more fish
+clip_284 | than just ten years ago.
+clip_285 | Fishermen working nearby waters profit from the overspill.
+clip_286 | They now catch more fish for less effort.
+clip_287 | We have far too few marine sanctuaries,
+clip_288 | and in many commercial fishing is still allowed.
+clip_289 | We need to turn a third of all our coastal seas
+clip_290 | into properly protected areas.
+clip_291 | If we do that, our planet's fishing grounds would recover
+clip_292 | and help sustain both humanity and the rest of the natural world.
+clip_293 | Please visit ourplanet.com
+clip_294 | to discover what we need to do now to restore our coastal seas.

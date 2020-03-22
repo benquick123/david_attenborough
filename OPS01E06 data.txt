@@ -1,0 +1,334 @@
+clip_1 | Just 50 years ago,
+clip_2 | we finally ventured to the Moon.
+clip_3 | For the very first time,
+clip_4 | we looked back at our own planet.
+clip_5 | Since then, the human population has more than doubled.
+clip_6 | This series will celebrate the natural wonders that remain
+clip_7 | and reveal what we must preserve
+clip_8 | to ensure people and nature thrive.
+clip_9 | Dolphins...
+clip_10 | panicking.
+clip_11 | They're being hunted by false killer whales.
+clip_12 | Dolphins are faster in short bursts.
+clip_13 | But their hunters have stamina.
+clip_14 | Just as the killer whales close in,
+clip_15 | the dolphins make a sudden turn to evade their predators.
+clip_16 | These extraordinary events are taking place far from land,
+clip_17 | where few of us ever venture.
+clip_18 | This is the ocean beyond the boundary of any country...
+clip_19 | largely ungoverned, wild, and lawless.
+clip_20 | Nothing symbolizes our relationship with the high seas
+clip_21 | better than the blue whale.
+clip_22 | Weighing 200 tons and 30 meters long,
+clip_23 | these are the largest animals ever to have existed.
+clip_24 | Yet much of their lives is still a mystery to us.
+clip_25 | Blue whales live far out to sea,
+clip_26 | roaming every ocean from the tropics to the poles.
+clip_27 | We have only recently discovered
+clip_28 | a few special places where they come close to shore.
+clip_29 | The Gulf of California,
+clip_30 | on Mexico's Pacific coast.
+clip_31 | This is a sanctuary for blue whales.
+clip_32 | Meet the world's biggest newborn...
+clip_33 | a baby blue.
+clip_34 | Just a month old,
+clip_35 | she's already eight meters long and weighs six tons.
+clip_36 | Her mother shelters her with a protective fin.
+clip_37 | They caress one another, cherishing their close bond.
+clip_38 | These are the most intimate images ever captured
+clip_39 | of a blue whale mother and her calf.
+clip_40 | This female will give birth only once every two or three years,
+clip_41 | so each baby blue is extremely precious.
+clip_42 | The calf will grow three tons a month.
+clip_43 | Once, there were more than 300,000 blue whales,
+clip_44 | but last century, they were hunted relentlessly,
+clip_45 | and only a few thousand survived.
+clip_46 | Blue whales are now protected,
+clip_47 | and their numbers are slowly increasing.
+clip_48 | Soon, this calf will leave these sheltered waters
+clip_49 | to roam the high seas.
+clip_50 | We once thought that the high seas were simply too vast for us to damage,
+clip_51 | but we now know that her ocean home is under threat as never before.
+clip_52 | Out here in the big blue, there remain a few pristine places
+clip_53 | to remind us how rich the oceans can still be.
+clip_54 | Spinner dolphins.
+clip_55 | In the Pacific, off the coast of Costa Rica, Central America,
+clip_56 | they are starting to gather in great numbers.
+clip_57 | Spinners live in pods,
+clip_58 | groups of individuals linked by complex social relationships.
+clip_59 | The dolphins constantly touch and talk with one another,
+clip_60 | using a language of clicks and whistles.
+clip_61 | They are shadowed by yellowfin tuna.
+clip_62 | The tuna rely on the dolphins to find food.
+clip_63 | Everyone is searching for the same prey...
+clip_64 | lantern fish...
+clip_65 | the most numerous fish on the planet.
+clip_66 | No longer than your finger,
+clip_67 | lantern fish spend most of their time hiding in the deep.
+clip_68 | So, despite their astounding abundance, we don't fish for them.
+clip_69 | They are one of the few fish that still thrives.
+clip_70 | As they close in on their prey, the dolphin pod gets bigger and bigger.
+clip_71 | This pod could be 10,000 strong.
+clip_72 | For every one at the surface, 20 swim below.
+clip_73 | Using echolocation, a type of sonar,
+clip_74 | the dolphins detect lantern fish in the depths
+clip_75 | and drive them to the surface.
+clip_76 | They patrol the underside of the shoal
+clip_77 | to stop their prey escaping back to the deep.
+clip_78 | Once the dolphins have had their fill,
+clip_79 | there's still plenty more for other predators.
+clip_80 | Mobula rays swoop in.
+clip_81 | To maximize their catch, the rays attack in formation.
+clip_82 | A wall of mouths scooping up their prey.
+clip_83 | Because we don't fish for them, lantern fish and their predators thrive.
+clip_84 | All these hunters have barely made a dent in the great shoal.
+clip_85 | Most life in the open ocean is concentrated in a thin surface layer,
+clip_86 | where the power of the sun has its greatest effect.
+clip_87 | These sunlit shallows are fertilized in a surprising way.
+clip_88 | As the dolphins produce waste, they play a vital role,
+clip_89 | recycling nutrients from the deep up to the surface.
+clip_90 | This marine manure
+clip_91 | helps to fuel the basis of all life in the open ocean.
+clip_92 | Phytoplankton...
+clip_93 | microscopic drifting plants.
+clip_94 | They combine nutrients in seawater with energy from the sun
+clip_95 | to create the very foundation of every food chain out here.
+clip_96 | So all animals, from the smallest fish to the largest whale,
+clip_97 | ultimately depend on these tiny plants for food.
+clip_98 | And in turn, the phytoplankton benefits from the nutrients
+clip_99 | produced by these animals.
+clip_100 | Crucially, phytoplankton also produce half the oxygen in the air we breathe.
+clip_101 | So, no matter where you live,
+clip_102 | you can thank these exquisite little plants
+clip_103 | for every other breath you take.
+clip_104 | In ideal conditions, they can bloom to such an extent
+clip_105 | that great swathes of the ocean turn green.
+clip_106 | Surprisingly, phytoplankton also play a vital role in cloud formation.
+clip_107 | Moisture evaporating from the ocean
+clip_108 | condenses around tiny particles created by the plankton.
+clip_109 | These droplets combine to grow into colossal clouds.
+clip_110 | They can rise 20 kilometers into the atmosphere.
+clip_111 | These oceanic clouds reflect the sun's energy back into space,
+clip_112 | helping to protect the Earth from rising temperatures.
+clip_113 | Not only do the oceans produce half the oxygen we breathe,
+clip_114 | they also drive the weather and climate,
+clip_115 | transporting life-giving fresh water around the world.
+clip_116 | The high seas are the life-support system of our planet.
+clip_117 | They have such power simply because they're so vast.
+clip_118 | The oceans cover two-thirds of the globe, and that's just the surface.
+clip_119 | They're also immensely deep.
+clip_120 | We can only journey to this unexplored space
+clip_121 | in special submarines that can withstand the crushing pressure.
+clip_122 | The average depth of the oceans is nearly four kilometers,
+clip_123 | and the deepest point more than ten.
+clip_124 | The deep makes up 95 percent of all the space available for life.
+clip_125 | This alien world is home to weird and mysterious creatures.
+clip_126 | Few are stranger than this one.
+clip_127 | For years, we only knew they existed from the occasional one washed ashore.
+clip_128 | They have hardly ever been seen alive.
+clip_129 | An oarfish.
+clip_130 | Ten meters long.
+clip_131 | Hanging vertically
+clip_132 | and using rhythmic waves along their dorsal fin,
+clip_133 | oarfish commute easily between the surface and the depths.
+clip_134 | Below 200 meters, there's not enough light for plants to grow,
+clip_135 | so deep-sea animals depend on food sinking down from the surface...
+clip_136 | marine snow.
+clip_137 | A crown jellyfish drifts with tentacles outstretched
+clip_138 | to ensnare pray.
+clip_139 | They live in every ocean, to depths of seven kilometers.
+clip_140 | The deep is so vast that these could be the most abundant of all jellyfish.
+clip_141 | We used to think the deep supported little life,
+clip_142 | but scientists now believe
+clip_143 | there are ten times more animals living here than previously thought.
+clip_144 | So, there must be many yet to be discovered.
+clip_145 | This deep-water crustacean, Cystisoma, is as clear as glass.
+clip_146 | It hides in plain sight.
+clip_147 | In this twilight zone,
+clip_148 | invisibility can be the difference between finding a meal and being one.
+clip_149 | Its huge eyes strain to see in the gloom.
+clip_150 | No light penetrates below a thousand meters.
+clip_151 | In this darkness, animals create their own light...
+clip_152 | bioluminescence.
+clip_153 | A glowing lure entices victims into this dragonfish's terrifying teeth.
+clip_154 | On most expeditions down here, we are surprised by something new.
+clip_155 | A deep-sea anglerfish.
+clip_156 | Her extraordinary array of sensors
+clip_157 | will detect even the faintest movement by prey tempted to her lure.
+clip_158 | Here, in the deep midwater, predators play a patient game.
+clip_159 | Eventually, we reach the bottom,
+clip_160 | nearly a thousand meters down.
+clip_161 | The deep-sea plains cover more than half the Earth's surface,
+clip_162 | and yet we know more about the surface of the Moon.
+clip_163 | Chimaera, an ancient relative of the shark,
+clip_164 | up to two meters long.
+clip_165 | Few species of this size can make a living on the barren seafloor.
+clip_166 | Moving slowly to conserve energy,
+clip_167 | they use special electrical sensors around their mouths
+clip_168 | to search for scarce prey buried in the sediment.
+clip_169 | Rocky outcrops rising from the seafloor can be oases in this desert.
+clip_170 | This ragged-tooth shark has come here for good reason.
+clip_171 | Five hundred meters down off the coast of Florida,
+clip_172 | a rare hot spot of life.
+clip_173 | Lophelia, deep-sea coral reefs.
+clip_174 | We used to think that corals
+clip_175 | were only found in the warm, sunny shallows.
+clip_176 | But, astonishingly, deep-sea reefs cover a greater area of the seafloor
+clip_177 | than their shallow-water relatives.
+clip_178 | These underwater forests
+clip_179 | provide shelter and food for a rich community of marine life.
+clip_180 | They're also vital nurseries for many deep-sea creatures.
+clip_181 | The corals are made up of many anemone-like individuals,
+clip_182 | polyps that live in colonies connected by a hard skeleton.
+clip_183 | The polyps have stinging cells in their tentacles
+clip_184 | to snare passing prey, their only source of food.
+clip_185 | But they don't always get to keep their catch.
+clip_186 | A bristle worm has set up home within the coral.
+clip_187 | It checks the polyps for a freshly caught morsel...
+clip_188 | and steals it from the coral.
+clip_189 | But this theft is actually a protection racket.
+clip_190 | Urchins attack and eat the corals.
+clip_191 | Time for payback.
+clip_192 | The urchin may have protective spines, but the worm has a shocking weapon,
+clip_193 | and goes on the attack.
+clip_194 | The urchin has been seen off,
+clip_195 | and the worm has saved its home.
+clip_196 | Like most deep-sea animals,
+clip_197 | these corals grow extremely slowly.
+clip_198 | Some reefs may be 40,000 years old.
+clip_199 | Despite being so far beneath the surface, these corals are still within our reach.
+clip_200 | Deep-sea fishing nets dragged across the seafloor
+clip_201 | reduce the fragile reefs to rubble.
+clip_202 | Half of all deep-sea corals have already been destroyed.
+clip_203 | It will take centuries for these communities to recover.
+clip_204 | Beyond the boundary of any one country,
+clip_205 | the high seas are wild and barely protected.
+clip_206 | Wildest of all, the Southern Ocean,
+clip_207 | home of the albatross.
+clip_208 | Albatross live solitary lives far out to sea.
+clip_209 | They can travel hundreds of kilometers a day,
+clip_210 | often for weeks at a time, searching for food.
+clip_211 | A dead sea lion is a rare opportunity.
+clip_212 | Giant petrels are the first to arrive.
+clip_213 | They use their powerful beaks to rip the carcass open.
+clip_214 | Known as sea vultures,
+clip_215 | they are the top scavenger in Antarctic waters.
+clip_216 | Black-browed albatross have an extraordinary sense of smell
+clip_217 | and can follow a scent from 20 kilometers away.
+clip_218 | The black-browed must grab mouthfuls when they can.
+clip_219 | They are bullied by the more aggressive giant petrels.
+clip_220 | Wilson's petrels are too small to compete
+clip_221 | and pick off scraps from the edge of the frenzy.
+clip_222 | These delicate little petrels are the most numerous of all seabirds
+clip_223 | because they're found in every ocean.
+clip_224 | It's only when these normally solitary birds
+clip_225 | gather like this
+clip_226 | that we can appreciate the wealth of life supported by the high seas.
+clip_227 | A wandering albatross is last to arrive.
+clip_228 | It dwarfs the other birds and uses its great size
+clip_229 | and three-meter wingspan to dominate.
+clip_230 | Even the giant petrels back off.
+clip_231 | The wanderer finally gets its share.
+clip_232 | In recent years, albatross and other seabirds
+clip_233 | have been in decline.
+clip_234 | Their need to travel great distances exposes them
+clip_235 | to the dangers of a poorly regulated and overexploited ocean.
+clip_236 | It's a problem for all hunters of the high seas.
+clip_237 | These giants cross entire oceans in their search for food.
+clip_238 | They can grow over three meters long and weigh half a ton.
+clip_239 | Bluefin tuna.
+clip_240 | They're streamlined to perfection and built for speed.
+clip_241 | They hunt in great packs, hundreds strong.
+clip_242 | The target: a school of anchovies.
+clip_243 | They gently corral the anchovies into a tight ball at the surface,
+clip_244 | careful not to cause panic.
+clip_245 | And then they attack.
+clip_246 | This is a highly coordinated hunt.
+clip_247 | The tuna take turns,
+clip_248 | striking from the same direction to keep the anchovies on the run.
+clip_249 | After a mouthful, each bluefin peels off to take its place at the rear.
+clip_250 | Wave after wave continues the assault.
+clip_251 | With their power and devastating pace,
+clip_252 | bluefin tuna are one of the ocean's most impressive hunters.
+clip_253 | They are also the most prized fish in the sea.
+clip_254 | So valuable that a single bluefin can sell in Japan
+clip_255 | for over a million dollars.
+clip_256 | So, perhaps it's inevitable
+clip_257 | that they have been fished almost to extinction.
+clip_258 | Bluefin tuna are not the only ones in peril.
+clip_259 | Decades of unsustainable fishing
+clip_260 | have left many fish stocks in serious decline.
+clip_261 | A third have collapsed altogether.
+clip_262 | Plastic pollution is a grave issue for our oceans,
+clip_263 | but industrial overfishing is far more dangerous.
+clip_264 | If we continue to harvest the seas in this way,
+clip_265 | it's not just fisheries that will collapse.
+clip_266 | The whole ocean system could follow.
+clip_267 | One hundred million sharks are killed every year,
+clip_268 | just to make shark fin soup.
+clip_269 | Ninety percent of all large ocean hunters have disappeared.
+clip_270 | Without them at the top of the food chain, the whole community of marine life
+clip_271 | is declining and changing beyond recognition.
+clip_272 | Squid are increasingly replacing fish.
+clip_273 | We have severely depleted both their predators and competitors,
+clip_274 | so squid are taking over,
+clip_275 | an indication of a serious imbalance in the oceans.
+clip_276 | Squid breed quickly and have lots of fast-growing young,
+clip_277 | so they can rapidly exploit the gaps left by the fish that we have harvested.
+clip_278 | They lay their eggs in cases on the seafloor.
+clip_279 | The young develop even faster in these warm, shallow waters.
+clip_280 | With such drastic changes in the marine menu,
+clip_281 | predators are having to adapt.
+clip_282 | Sea lions prefer to eat more energy-rich prey,
+clip_283 | like anchovies and sardines,
+clip_284 | but with these in short supply,
+clip_285 | they're forced to rely more on a diet of squid.
+clip_286 | We, too, will be forced to change the seafood we eat
+clip_287 | if we continue to fish as we do.
+clip_288 | But if we harvest the oceans in a sustainable way,
+clip_289 | they can be marvelously productive
+clip_290 | and will provide us with an abundance of food.
+clip_291 | There are already signs that the ocean has the power
+clip_292 | to recover astonishingly quickly.
+clip_293 | Humpback whales.
+clip_294 | They live in every ocean,
+clip_295 | traveling the high seas, from their polar feeding grounds
+clip_296 | to the tropics, where they breed.
+clip_297 | Yet whales have not always enjoyed such freedom.
+clip_298 | Once, there were more than a hundred thousand humpbacks
+clip_299 | in the oceans,
+clip_300 | but last century, they were hunted to near extinction.
+clip_301 | Just a few thousand survived the onslaught.
+clip_302 | A huge public outcry
+clip_303 | finally led to a ban on commercial whaling in 1986.
+clip_304 | Since then, the number of humpback whales has been steadily increasing.
+clip_305 | They're returning to their ancestral feeding grounds,
+clip_306 | like these off the coast of South Africa.
+clip_307 | They are gathering to take advantage of a seasonal abundance of krill,
+clip_308 | tiny shrimp-like crustaceans.
+clip_309 | The whales take in great mouthfuls of water,
+clip_310 | trapping the krill on sieves of hairy bristles
+clip_311 | that line their jaws.
+clip_312 | Each whale can eat over a ton a day.
+clip_313 | With food so plentiful, fur seals come to claim their share.
+clip_314 | These extraordinary scenes were unimaginable just a few years ago.
+clip_315 | They form super-groups, hundreds strong.
+clip_316 | This is the greatest gathering of whales seen for a century.
+clip_317 | Whales recycle nutrients that enrich surface waters,
+clip_318 | which fuel the growth of phytoplankton,
+clip_319 | and they, in turn, feed krill in a perfect self-sustaining cycle.
+clip_320 | We now know that a healthy community of great hunters,
+clip_321 | whales, dolphins, tuna, and sharks,
+clip_322 | is essential for a fully-functioning ocean.
+clip_323 | And a functioning ocean is vital to the health of our planet
+clip_324 | and humanity.
+clip_325 | In a remarkable recovery,
+clip_326 | humpback whales have almost returned to their original numbers.
+clip_327 | But during that time,
+clip_328 | we have done more harm to the oceans than ever before in human history.
+clip_329 | Only with global cooperation
+clip_330 | will our oceans recover and thrive once again.
+clip_331 | We saved the whales by international agreement.
+clip_332 | Now, it is time to save our oceans.
+clip_333 | Please visit ourplanet.com to discover what we need to do now
+clip_334 | to protect the high seas.
